@@ -5,5 +5,5 @@ This is my portfolio website which I created while using Bootstrap and React. I 
 
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
-- [Visit the website](#https://mystifying-ride-94ec23.netlify.app)
+- [Visit the website](https://mystifying-ride-94ec23.netlify.app)
 
